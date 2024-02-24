@@ -1,5 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<a href="https://www.vecteezy.com/free-vector/coding-background">Coding Background Vectors by Vecteezy</a>
+<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
 
 <h1 align="center">Hi 👋, I'm Hasib Husic</h1>
 <h3 align="center">A passionate frontend developer from Bosnia and living in Milwaukee, WI</h3>
