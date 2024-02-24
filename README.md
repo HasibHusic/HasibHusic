@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasib Husic</h1>
 <h3 align="center">A passionate frontend developer from Bosnia and living in Milwaukee, WI</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasibhusic" alt="hasibhusic" /></a> </p>
-
 - 🔭 I’m currently working on **developing my React skills**
 
 - 🌱 I’m currently learning **React and JavaScript**
@@ -32,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibhusic&show_icons=true&locale=en&layout=compact" alt="hasibhusic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasibhusic&show_icons=true&locale=en" alt="hasibhusic" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibhusic&" alt="hasibhusic" /></p>
