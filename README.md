@@ -1,3 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
 <h1 align="center">Hi 👋, I'm Hasib Husic</h1>
 <h3 align="center">A passionate frontend developer from Bosnia and living in Milwaukee, WI</h3>
 
@@ -13,7 +16,7 @@
 
 - 💬 Ask me about **Anything related to software development or software engineering, from best practices in front-end design to optimizing database performance and everything in between. I love discussing ideas, sharing insights, and collaborating with fellow developers to solve challenging problems.**
 
--😄 Fun fact: **When I'm not immersed in code, you can find me exploring the great outdoors, playing soccer, or losing track of time while take photographs on my Sony A3 iii. Balancing my passion for technology with other interests keeps me energized and inspired to tackle new challenges head-on.** 
+- 😄 Fun fact: **When I'm not immersed in code, you can find me exploring the great outdoors, playing soccer, or losing track of time while take photographs on my Sony A3 iii. Balancing my passion for technology with other interests keeps me energized and inspired to tackle new challenges head-on.** 
 
 - 📫 How to reach me **Hasib.Husic11@gmail.com**
 
